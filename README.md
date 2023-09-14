@@ -30,3 +30,10 @@ Then you can visit localhost:8080 to see the server page.
 ## containerize the app 
 
 We will generate a jar file that we will put in a container
+
+```
+mvn clean package
+```
+that will generate the target folder:
+
+![alt text](https://github.com/ElioLopez/javarestapi/blob/main/images/mvn-clean-package.png?raw=true)
