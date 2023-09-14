@@ -37,3 +37,13 @@ mvn clean package
 that will generate the target folder:
 
 ![alt text](https://github.com/ElioLopez/javarestapi/blob/main/images/mvn-clean-package.png?raw=true)
+
+with the "rest-0.01-SNAPSHOPT.jar" file that we will later package in a container image with:
+
+```
+docker build -t spring-boot-rest .
+```
+if the build is sucessfull we will see the container image available:
+
+![alt text](https://github.com/ElioLopez/javarestapi/blob/main/images/docker-build.png?raw=true)
+
