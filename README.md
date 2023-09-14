@@ -14,4 +14,4 @@ The base project was created using spring initializr (start.spring.io) with the 
 
 ![alt text](https://github.com/ElioLopez/javarestapi/blob/main/images/spring-initializr.png?raw=true)
 
-then download the zip file, as stated on the video.
+then download the zip file clicking in "generate", as stated on the video.
