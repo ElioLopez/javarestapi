@@ -47,3 +47,7 @@ if the build is sucessfull we will see the container image available:
 
 ![alt text](https://github.com/ElioLopez/javarestapi/blob/main/images/docker-build.png?raw=true)
 
+and we can run with the followin command and visit the page and see the same thing we saw when running the app locally:
+```
+docker run -p 8080:8080 spring-boot-rest
+```
