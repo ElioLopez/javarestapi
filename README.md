@@ -16,7 +16,7 @@ The base project was created using spring initializr (start.spring.io) with the 
 
 then download the zip file clicking in "generate", as stated on the video.
 
-### start application locally for test
+# start application locally for test
 
 ```
 mvn spring-boot:run
@@ -24,3 +24,6 @@ mvn spring-boot:run
 that should show the following output in the console:
 
 ![alt text](https://github.com/ElioLopez/javarestapi/blob/main/images/mvn-run.png?raw=true)
+
+Then you can visit localhost:8080 to see the server page.
+
